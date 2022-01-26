@@ -1,0 +1,14 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:glow_lichen"
+        },
+        {
+            "item": "minecraft:obsidian"
+        }
+    ],
+    "result": {
+        "item": "minecraft:crying_obsidian"
+    }
+}

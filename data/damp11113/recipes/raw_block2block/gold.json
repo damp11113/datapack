@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:raw_gold_block"
+    },
+    "result": "minecraft:gold_block",
+    "cookingtime": 1800,
+    "experience": 10.0
+}

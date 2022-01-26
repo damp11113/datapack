@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "sss",
+        "ooo",
+        "cod"
+    ],
+    "key": {
+        "s":{
+            "item":"minecraft:wither_skeleton_skull"
+        },
+        "o":{
+            "item":"minecraft:soul_sand"
+        },
+        "c":{
+            "item":"minecraft:diamond_chestplate"
+        },
+        "d":{
+            "item":"minecraft:diamond_sword"
+        }
+    },
+    "result": {
+        "item":"minecraft:nether_star",
+        "count": 1
+    }
+}
