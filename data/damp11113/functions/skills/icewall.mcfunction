@@ -1,1 +1,0 @@
-execute at @e[type=minecraft:snowball] run fill ~ ~1 ~2 ~ ~-2 ~-2 minecraft:packed_ice
